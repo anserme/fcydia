@@ -1,2 +1,2 @@
-./Applications/iGameGuardian.app/loader
-./Applications/iGameGuardian.app/gg_trigger
+/Applications/iGameGuardian.app/loader
+/Applications/iGameGuardian.app/gg_trigger
